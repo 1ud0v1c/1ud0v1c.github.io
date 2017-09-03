@@ -1,0 +1,14 @@
+doctype html
+html
+	head
+		title=title
+		meta(charset='utf-8')
+		meta(name='description', content= description)
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css?family=Roboto")
+		link(rel='stylesheet', href='css/knacss.css')
+		link(rel='stylesheet', href='css/main.css')
+	body
+		ul.pas.home.center
+			each folder in folders
+				li
+					a(href=folder + "/index.html")=folder
