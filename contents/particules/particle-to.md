@@ -25,10 +25,10 @@ Petit palindrome: にわとリとことリとわに
 
 ### Annexes 
 
-キャップ: casquette 
-袋 (sac, pochette) : ふくろ (fukuro), タ/ダイ (tai/dai)
-手袋 (tebukuro): gants
-スニーカー: des baskets
-鶏 (poulet): にわとり (niwatori), ケイ (kei)
-小鳥 (petit oiseaux): ことり (kotori)
-鰐 (crocodile): わに (wani), ガク (gaku)
+- キャップ: casquette 
+- 袋 (sac, pochette) : ふくろ (fukuro), タ/ダイ (tai/dai)
+- 手袋 (tebukuro): gants
+- スニーカー: des baskets
+- 鶏 (poulet): にわとり (niwatori), ケイ (kei)
+- 小鳥 (petit oiseaux): ことり (kotori)
+- 鰐 (crocodile): わに (wani), ガク (gaku)
